@@ -16,4 +16,6 @@ If you would like information about the algorithm, please contact me.
 
 When I use the terms "infinite" and "unlimited" above, I really mean "almost".
 
+v4.14 has a serious bug fix. If you are using this library, please upgrade to this version ASAP.
+
 No copyright, no guarantee, no license.
