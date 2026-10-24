@@ -1,6 +1,8 @@
 EncPRNG is a Pseudo Random Number Generator using my own algorithm.
 I use it for cryptography in my password manager EncView.
 
+v4.14 has a serious bug fix. If you are using this library, please upgrade to this version ASAP.
+
 It also has some interesting features that other RNGs do not have:
 
 1. Repetition detection.
@@ -15,7 +17,5 @@ give an example of how to configure and use the RNG.
 If you would like information about the algorithm, please contact me.
 
 When I use the terms "infinite" and "unlimited" above, I really mean "almost".
-
-v4.14 has a serious bug fix. If you are using this library, please upgrade to this version ASAP.
 
 No copyright, no guarantee, no license.
