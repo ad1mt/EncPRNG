@@ -11,7 +11,7 @@ It also has some interesting features that other RNGs do not have:
 4. Can create an unlimited number of RNG instances, which are independent, 
 and can be run simultaneously in different threads or processes.
 
-I have included some small demo programs; to encrypt and decrypt a file, and generator program for testing with Practrand.
+I have included some small demo programs; to encrypt and decrypt a file, and a random number generator program for testing with Practrand.
 These give examples of how to configure and use the RNG.
 
 If you would like information about the algorithm, please contact me.
