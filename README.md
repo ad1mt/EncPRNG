@@ -1,7 +1,7 @@
 EncPRNG is a Pseudo Random Number Generator using my own algorithm.
 I use it for cryptography in my password manager EncView.
 
-v4.14 has a serious bug fix. If you are using an earlier version, please upgrade ASAP.
+v4.14 has a serious bug fix, and a minor bug fix. If you are using an earlier version, please upgrade ASAP.
 
 It also has some interesting features that other RNGs do not have:
 
